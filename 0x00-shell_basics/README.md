@@ -1,1 +1,1 @@
-My file
+Prints current woking dirextory
