@@ -1,1 +1,1 @@
-Prints current woking dirextory
+Task 0: Prints current woking dirextory
