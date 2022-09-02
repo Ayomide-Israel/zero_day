@@ -14,3 +14,4 @@ Task 12: checking file type.
 Task 13: Symbolic link.
 Task 14: copy html file extension.
 Task 15: Moving file in uppercase.
+Task 16: deleting files that end with ~.
