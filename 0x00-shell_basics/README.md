@@ -9,4 +9,5 @@ Task 7: Move the file betty from /tmp/ to /tmp/my_first_directory.
 Task 8: Delete file betty.
 Task 9: Delete directory my_first_directory.
 Task 10: changing of dir to previous one.
-Task 11: List file and directory.`
+Task 11: List file and directory.
+Task 12: checking file type.
