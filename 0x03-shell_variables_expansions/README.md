@@ -7,3 +7,4 @@ Created a script that lists all local variables and environment variables, and f
 Created a script that creates a new local variable.
 Created a script that creates a new global variable.
 Wrote a script that prints the result of an addition
+Wrote a script that prints the result of POWER divided by DIVIDE
