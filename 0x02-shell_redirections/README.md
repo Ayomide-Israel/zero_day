@@ -1,11 +1,8 @@
 Prints Hello World
-
 Prints confused smiley
-
-Display the content of the /etc/passwd file
-
-Display the content of /etc/passwd and /etc/hosts.
-
-Display the last 10 lines of /etc/passwd
-
-Display the first 10 lines of /etc/passwd
+Displays the content of the /etc/passwd file
+Displays the content of /etc/passwd and /etc/hosts.
+Displays the last 10 lines of /etc/passwd
+Displays the first 10 lines of /etc/passwd
+Writes a script that displays the third line of the file iacta
+Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
