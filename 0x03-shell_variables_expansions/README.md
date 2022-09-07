@@ -5,3 +5,4 @@ Created a script that counts the number of directories in the PATH.
 Created a script that lists environment variables.
 Created a script that lists all local variables and environment variables, and functions.
 Created a script that creates a new local variable.
+Created a script that creates a new global variable.
